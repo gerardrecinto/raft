@@ -4,7 +4,7 @@ A from-scratch implementation of the Raft consensus algorithm in Go, run on a de
 
 **Live demo:** https://gerardrecinto.github.io/raft-lab/ replays traces recorded by this code: a cold-start election, a leader crash and recovery, a minority partition that cannot commit, and a seeded chaos run.
 
-This is a personal learning project. It is not a production system and it has not run on real machines or a real network.
+A from-scratch Raft implementation.
 
 ## Why it exists
 
